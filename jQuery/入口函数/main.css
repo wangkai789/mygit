@@ -1,0 +1,28 @@
+
+/*    margin div 外边距    
+      div  代表标签
+      #div  代表id
+     .div  代表class
+*/
+div {
+    width: 300px;
+    height: 50px;
+    background-color: red;  /*背景色*/ 
+    margin-bottom: 10px; 
+    display: none;     /*显示*/ 
+    
+}
+#div {
+    width: 300px;
+    height: 50px;
+    background-color:rgb(230, 189, 196);
+    margin-bottom: 10px;
+    display: none;
+}
+.div {
+    width: 300px;
+    height: 50px;
+    background-color: blue;
+    margin-bottom: 10px;
+    display: none;
+}
